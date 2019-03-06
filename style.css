@@ -1,0 +1,32 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+h1{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.modal{
+}
+
+.modal-body {
+    padding: 0;
+}
+
+#show-person-description{
+    text-align: center;
+}
+
+#right-description{
+    padding: 2.5em 0;
+}
+
+#show-person-description h4{
+    margin-bottom: 10px;
+}
